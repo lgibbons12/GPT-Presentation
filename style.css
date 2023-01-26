@@ -1,0 +1,47 @@
+h1.title {
+    color: darkcyan;
+    text-align: center;
+    border-style: solid;
+    font-family: Georgia;
+}
+
+p.intro {
+    color:darkblue;
+    inline-size: 400px;
+    font-family: Georgia;
+    text-align: center;
+    padding: 5px;
+}
+body {
+    background-color: aliceblue;
+}
+.links {
+    background-color: aquamarine;
+    width: 400px;
+    padding: 5px;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+#openai {
+    width: 50px;
+    padding: 15px;
+    
+}
+.image {
+    flex-basis: 20%;
+}
+.text {
+    font-size: 20px;
+    padding-left: 0px;
+}
+#aipic {
+    position: absolute;
+    right: 30px;
+    padding: 20px;
+    width: 400px;
+    top: 100px;
+}
+#start-button {
+    position: center;
+}
