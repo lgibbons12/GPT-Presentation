@@ -45,3 +45,16 @@ body {
 #start-button {
     position: center;
 }
+#begin {
+    position: absolute;
+    left: 35%;
+    top: 25%;
+    width: 25%;
+}
+embed {
+    position: absolute;
+    left: 40%;
+    top: 100px;
+    width: 600px;
+    height: 400px;
+}
