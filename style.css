@@ -58,3 +58,10 @@ embed {
     width: 600px;
     height: 400px;
 }
+.linktree {
+    padding: 5px;
+    font-family: Georgia;
+    color: darkslategrey;
+    background-color: blanchedalmond;
+    width: 400px;
+}
